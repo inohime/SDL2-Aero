@@ -250,3 +250,8 @@ SDL2 Aero/Debug/SDL2 Borderless.tlog/SDL2 Borderless.lastbuildstate
 SDL2 Aero/Debug/SDL2 Borderless.tlog/unsuccessfulbuild
 SDL2 Aero/Debug/vc142.idb
 SDL2 Aero/Debug/vc142.pdb
+x64/Debug/zlib1.dll
+SDL2 Aero/x64/Debug/main.obj.enc
+x64/Debug/libjpeg-9.dll
+x64/Debug/libpng16-16.dll
+x64/Debug/SDL2_image.dll
