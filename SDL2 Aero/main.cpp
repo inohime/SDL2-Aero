@@ -19,9 +19,6 @@ struct _position
 
 void SetShadow(SDL_Window *win, HWND hwnd)
 {
-	// remove border
-	//SDL_SetWindowBordered(win, SDL_FALSE);
-
 	// sets the shadow on the borderless window
 	int v = 2;
 	DwmSetWindowAttribute(hwnd, 2, &v, 4);

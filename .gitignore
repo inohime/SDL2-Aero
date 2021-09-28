@@ -127,3 +127,126 @@ Debug/SDL2 Borderless.pdb
 .vs/SDL2 Borderless/v16/Browse.VC.db-shm
 .vs/SDL2 Borderless/v16/Browse.VC.db
 .vs/SDL2 Borderless/v16/.suo
+x64/Debug/SDL2.dll
+x64/Debug/SDL2 Borderless.pdb
+x64/Debug/SDL2 Borderless.exe
+x64/Debug/SDL2 Aero.pdb
+x64/Debug/SDL2 Aero.exe
+SDL2 Aero/x64/Debug/vc142.pdb
+SDL2 Aero/x64/Debug/vc142.idb
+SDL2 Aero/x64/Debug/SDL2 Aero.vcxproj.FileListAbsolute.txt
+SDL2 Aero/x64/Debug/SDL2 Aero.tlog/SDL2 Aero.lastbuildstate
+SDL2 Aero/x64/Debug/SDL2 Aero.tlog/link.write.1.tlog
+SDL2 Aero/x64/Debug/SDL2 Aero.tlog/link.read.1.tlog
+SDL2 Aero/x64/Debug/SDL2 Aero.tlog/link.command.1.tlog
+SDL2 Aero/x64/Debug/SDL2 Aero.tlog/CL.write.1.tlog
+SDL2 Aero/x64/Debug/SDL2 Aero.tlog/CL.read.1.tlog
+SDL2 Aero/x64/Debug/SDL2 Aero.tlog/CL.command.1.tlog
+SDL2 Aero/x64/Debug/SDL2 Aero.log
+SDL2 Aero/x64/Debug/SDL2 Aero.ilk
+SDL2 Aero/x64/Debug/SDL2 Aero.exe.recipe
+SDL2 Aero/x64/Debug/SDL2 Aero.Build.CppClean.log
+SDL2 Aero/x64/Debug/main.obj
+.vs/SDL2 Aero/v16/.suo
+.vs/SDL2 Aero/v16/Browse.VC.db
+.vs/SDL2 Aero/v16/Browse.VC.db-shm
+.vs/SDL2 Aero/v16/Browse.VC.db-wal
+.vs/SDL2 Aero/v16/Browse.VC.opendb
+.vs/SDL2 Aero/v16/ipch/AutoPCH/37e67feeedeb98c0/MAIN.ipch
+.vs/SDL2 Aero/v16/ipch/AutoPCH/a144a52fd4dbe48e/MAIN.ipch
+deps/SDL2/lib/x64/SDL2main.lib
+deps/SDL2/lib/x64/SDL2test.lib
+deps/SDL2/lib/x86/SDL2.dll
+deps/SDL2/lib/x86/SDL2.lib
+deps/SDL2/lib/x86/SDL2main.lib
+deps/SDL2/lib/x86/SDL2test.lib
+deps/SDL2/README-SDL.txt
+deps/SDL2/README.txt
+deps/SDL2/WhatsNew.txt
+deps/SDL2img/include/SDL_image.h
+deps/SDL2img/lib/x64/libjpeg-9.dll
+deps/SDL2img/lib/x64/libpng16-16.dll
+deps/SDL2img/lib/x64/libtiff-5.dll
+deps/SDL2img/lib/x64/libwebp-7.dll
+deps/SDL2img/lib/x64/LICENSE.jpeg.txt
+deps/SDL2img/lib/x64/LICENSE.png.txt
+deps/SDL2img/lib/x64/LICENSE.tiff.txt
+deps/SDL2img/lib/x64/LICENSE.webp.txt
+deps/SDL2img/lib/x64/LICENSE.zlib.txt
+deps/SDL2img/lib/x64/SDL2_image.dll
+deps/SDL2img/lib/x64/SDL2_image.lib
+deps/SDL2img/lib/x64/zlib1.dll
+deps/SDL2img/lib/x86/libjpeg-9.dll
+deps/SDL2img/lib/x86/libpng16-16.dll
+deps/SDL2img/lib/x86/libtiff-5.dll
+deps/SDL2img/lib/x86/libwebp-7.dll
+deps/SDL2img/lib/x86/LICENSE.jpeg.txt
+deps/SDL2img/lib/x86/LICENSE.png.txt
+deps/SDL2img/lib/x86/LICENSE.tiff.txt
+deps/SDL2img/lib/x86/LICENSE.webp.txt
+deps/SDL2img/lib/x86/LICENSE.zlib.txt
+deps/SDL2img/lib/x86/SDL2_image.dll
+deps/SDL2img/lib/x86/SDL2_image.lib
+deps/SDL2img/lib/x86/zlib1.dll
+deps/SDL2mix/include/SDL_mixer.h
+deps/SDL2mix/lib/x64/libFLAC-8.dll
+deps/SDL2mix/lib/x64/libmodplug-1.dll
+deps/SDL2mix/lib/x64/libmpg123-0.dll
+deps/SDL2mix/lib/x64/libogg-0.dll
+deps/SDL2mix/lib/x64/libopus-0.dll
+deps/SDL2mix/lib/x64/libopusfile-0.dll
+deps/SDL2mix/lib/x64/libvorbis-0.dll
+deps/SDL2mix/lib/x64/libvorbisfile-3.dll
+deps/SDL2mix/lib/x64/LICENSE.FLAC.txt
+deps/SDL2mix/lib/x64/LICENSE.modplug.txt
+deps/SDL2mix/lib/x64/LICENSE.mpg123.txt
+deps/SDL2mix/lib/x64/LICENSE.ogg-vorbis.txt
+deps/SDL2mix/lib/x64/LICENSE.opus.txt
+deps/SDL2mix/lib/x64/LICENSE.opusfile.txt
+deps/SDL2mix/lib/x64/SDL2_mixer.dll
+deps/SDL2mix/lib/x64/SDL2_mixer.lib
+deps/SDL2mix/lib/x86/libFLAC-8.dll
+deps/SDL2mix/lib/x86/libmodplug-1.dll
+deps/SDL2mix/lib/x86/libmpg123-0.dll
+deps/SDL2mix/lib/x86/libogg-0.dll
+deps/SDL2mix/lib/x86/libopus-0.dll
+deps/SDL2mix/lib/x86/libopusfile-0.dll
+deps/SDL2mix/lib/x86/libvorbis-0.dll
+deps/SDL2mix/lib/x86/libvorbisfile-3.dll
+deps/SDL2mix/lib/x86/LICENSE.FLAC.txt
+deps/SDL2mix/lib/x86/LICENSE.modplug.txt
+deps/SDL2mix/lib/x86/LICENSE.mpg123.txt
+deps/SDL2mix/lib/x86/LICENSE.ogg-vorbis.txt
+deps/SDL2mix/lib/x86/LICENSE.opus.txt
+deps/SDL2mix/lib/x86/LICENSE.opusfile.txt
+deps/SDL2mix/lib/x86/SDL2_mixer.dll
+deps/SDL2mix/lib/x86/SDL2_mixer.lib
+deps/SDL2ttf/include/SDL_ttf.h
+deps/SDL2ttf/lib/x64/libfreetype-6.dll
+deps/SDL2ttf/lib/x64/LICENSE.freetype.txt
+deps/SDL2ttf/lib/x64/LICENSE.zlib.txt
+deps/SDL2ttf/lib/x64/SDL2_ttf.dll
+deps/SDL2ttf/lib/x64/SDL2_ttf.lib
+deps/SDL2ttf/lib/x64/zlib1.dll
+deps/SDL2ttf/lib/x86/libfreetype-6.dll
+deps/SDL2ttf/lib/x86/LICENSE.freetype.txt
+deps/SDL2ttf/lib/x86/LICENSE.zlib.txt
+deps/SDL2ttf/lib/x86/SDL2_ttf.dll
+deps/SDL2ttf/lib/x86/SDL2_ttf.lib
+deps/SDL2ttf/lib/x86/zlib1.dll
+SDL2 Aero/Debug/main.obj
+SDL2 Aero/Debug/SDL2 Borderless.log
+SDL2 Aero/Debug/SDL2 Borderless.tlog/CL.command.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/CL.read.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/CL.write.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/link-cvtres.read.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/link-cvtres.write.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/link-rc.read.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/link-rc.write.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/link.command.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/link.read.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/link.write.1.tlog
+SDL2 Aero/Debug/SDL2 Borderless.tlog/SDL2 Borderless.lastbuildstate
+SDL2 Aero/Debug/SDL2 Borderless.tlog/unsuccessfulbuild
+SDL2 Aero/Debug/vc142.idb
+SDL2 Aero/Debug/vc142.pdb
