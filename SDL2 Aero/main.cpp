@@ -110,9 +110,6 @@ int main(int argc, char *argv[])
 					Pos.client.w = e.window.data1;
 					Pos.client.h = e.window.data2;
 
-					int winw, winh;
-					SDL_GetWindowSize(window, &winw, &winh);
-
 					// to show resize works
 					Pos.topRight.x = static_cast<int>((Pos.client.w / 2.00) * 1.85);
 
