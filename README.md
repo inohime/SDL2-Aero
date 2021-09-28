@@ -1,5 +1,4 @@
 # SDL2-Aero
-SDL2 with some windows aero features
 
 Features:
 - Window resizing
